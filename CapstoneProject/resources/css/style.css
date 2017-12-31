@@ -555,6 +555,14 @@ nav {
 .footer-nav a:active {
   color: #808080;
 }
+.social i{
+  padding-right: 8px;
+}
+.social span{
+  padding-right: 5px;
+  padding-left: 100px;
+
+}
 
 @media only screen and (max-width: 480px) {
   footer {
